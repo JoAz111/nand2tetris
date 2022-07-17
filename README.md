@@ -8,3 +8,6 @@ The first project involved building multiple elementary logic gates from a basic
 
 ## Project 2
 The second project involved building chips starting at a half adder, all the way to a full Arithmetic Logic Unit capable of binary arithmetic. The ALU will be an integral part of the computer's CPU.
+
+## Project 3
+The second project consisted of creating sequential logic gates in order to build a 16K RAM chip. Started with an arbitrary Flip-flop gate and built a 1 bit chip from that. Then I built a 16 bit Register. With the Register I proceeded to build an 8-bit RAM Chip which I stacked into a 64-bit, 512-bit, 4K and 16K RAM chip respectiveley. Finally I implemented a counter that increments it's value every time unit (cycle).
